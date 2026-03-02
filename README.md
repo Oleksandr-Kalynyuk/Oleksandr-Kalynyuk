@@ -20,9 +20,7 @@ I'm **Sasha**, a Fullstack Developer based in Ukraine. I focus on building compl
 
 ### Fun Facts:
 
-* * * * ---
-
-### Let's connect:
-
-* **Instagram:** https://www.instagram.com/_sanya_kalynyuk_/
-* **Telegram:** https://t.me/betezda_lol
+*
+*
+*
+* * ---
