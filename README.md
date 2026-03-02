@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Oleksandr-Kalynyuk/Oleksandr-Kalynyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Sasha**, a Fullstack Developer based in Ukraine. I focus on building complete web applications that combine polished design with robust, reliable logic. I enjoy taking projects from a simple idea to a fully functional, user-friendly reality.
 
-Here are some ideas to get you started:
+### These days I’m focused on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* React, Tailwind CSS, Node.js
+* Crafting intuitive UI/UX with solid architecture
+* Building end-to-end solutions for small to medium-sized projects
+* Writing clean, maintainable code as a solo developer
+
+---
+
+### Some stuff I built:
+
+* **[Project Name]** - A brief one-line description of what the project does and the tech used.
+* **[Project Name]** - A brief one-line description of what the project does and the tech used.
+* **[Project Name]** - A brief one-line description of what the project does and the tech used.
+* * ---
+
+### Fun Facts:
+
+* * * * ---
+
+### Let's connect:
+
+* **Instagram:** https://www.instagram.com/_sanya_kalynyuk_/
+* **Telegram:** https://t.me/betezda_lol
