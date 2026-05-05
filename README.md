@@ -13,7 +13,7 @@ I'm **Sasha**, a Fullstack Developer based in Ukraine. I focus on building compl
 
 ### Some stuff I built:
 
-* **[Project Name]** - A brief one-line description of what the project does and the tech used.
+* **Gym Landing** - A small but  really good looking projects for gym bros: gym-landing-sandy.vercel.app.
 * **[Project Name]** - A brief one-line description of what the project does and the tech used.
 * **[Project Name]** - A brief one-line description of what the project does and the tech used.
 * * ---
